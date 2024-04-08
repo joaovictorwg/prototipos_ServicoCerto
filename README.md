@@ -423,7 +423,8 @@ Os principais entregáveis deste projeto incluem:
 ### Prototipação de telas
 ## Protótipo:
 
-![tela1](https://github.com/joaovictorwg/prototipos_ServicoCerto/blob/develop/PaginaPerfilPrestador.png)![tela2](https://github.com/joaovictorwg/prototipos_ServicoCerto/blob/develop/PerfilCliente.png)
+![tela1](https://github.com/joaovictorwg/prototipos_ServicoCerto/blob/develop/PaginaPerfilPrestador.png)
+![tela2](https://github.com/joaovictorwg/prototipos_ServicoCerto/blob/develop/PerfilCliente.png)
 
 
 ## *RF07 -  Atualizar informações do perfil*
@@ -482,7 +483,8 @@ Os principais entregáveis deste projeto incluem:
 
 <br/>
 
-![tela1](https://github.com/joaovictorwg/prototipos_ServicoCerto/blob/develop/InformacaoCliente.png)![tela2](https://github.com/joaovictorwg/prototipos_ServicoCerto/blob/develop/InformacaoPrestador.png)
+![tela1](https://github.com/joaovictorwg/prototipos_ServicoCerto/blob/develop/InformacaoCliente.png)
+![tela2](https://github.com/joaovictorwg/prototipos_ServicoCerto/blob/develop/InformacaoPrestador.png)
 
 
 
@@ -549,7 +551,8 @@ Os principais entregáveis deste projeto incluem:
 
 ### Prototipação de telas
 *Tela com o botão de deletar perfil*
-![tela1](https://github.com/joaovictorwg/prototipos_ServicoCerto/blob/develop/InformacaoCliente.png)![tela2](https://github.com/joaovictorwg/prototipos_ServicoCerto/blob/develop/InformacaoPrestador.png)
+![tela1](https://github.com/joaovictorwg/prototipos_ServicoCerto/blob/develop/InformacaoCliente.png)
+![tela2](https://github.com/joaovictorwg/prototipos_ServicoCerto/blob/develop/InformacaoPrestador.png)
 
 
 *Segunda etapa da tela*
@@ -560,3 +563,4 @@ Os principais entregáveis deste projeto incluem:
 
 
 ======
+
